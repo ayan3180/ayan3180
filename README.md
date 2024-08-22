@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayan3180
 - 👀 I’m interested in cybersecurity,ehtical hacking,bug bounty and certification programs 
-- 🌱 I’m currently learning Btech Cybersecurity and Data Forensics 
+- 🌱 I’m currently learning Btech Cybersecurity and Digital Forensics 
 - 💞️ I’m looking to collaborate for bug bounty and a team of cybersecurity researchers
 - 📫 You can mail me at ayansharma3180@gmail.com
 <!---
